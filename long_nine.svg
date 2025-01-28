@@ -7,11 +7,11 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg5"
-   inkscape:export-filename="/home/chapman/Documents/5th_street_signs/main_nine.png"
+   inkscape:export-filename="/home/chapman/Documents/5th_street_signs/long_nine.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="main_nine.svg"
+   sodipodi:docname="long_nine.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -231,7 +231,7 @@
        y="0"><tspan
          x="28.080078"
          y="44.873047"
-         id="tspan7644">5th Street Disc Golf Course</tspan></text>
+         id="tspan1937">5th Street Disc Golf Course</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,1.1491453,24.12876)"
@@ -239,9 +239,9 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:85.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;white-space:pre;shape-inside:url(#rect5358-3);fill:#000000;fill-opacity:1;stroke:none"
        x="269.36523"
        y="0"><tspan
-         x="90.833456"
+         x="89.66679"
          y="77.904265"
-         id="tspan7646">Main Layout</tspan></text>
+         id="tspan1939">Long Layout</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,14.642082,-20.428444)"
@@ -249,7 +249,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:306.667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect41542);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="58.257812"
          y="565.38505"
-         id="tspan7648">9</tspan></text>
+         id="tspan1941">9</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,14.902044,18.49678)"
@@ -257,7 +257,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect51348);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="21.591797"
          y="557.89453"
-         id="tspan7650">Par 3</tspan></text>
+         id="tspan1943">Par 3</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,2.7476155,63.09446)"
@@ -265,7 +265,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect51348-7);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="21.591797"
          y="539.01956"
-         id="tspan7652">188 Feet</tspan></text>
+         id="tspan1945">188 Feet</tspan></text>
     <image
        width="219.075"
        height="474.13333"
@@ -578,7 +578,7 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2853);fill:#ff0000;fill-opacity:1;stroke:none"><tspan
          x="1952.1211"
          y="838.52734"
-         id="tspan7654">OB</tspan></text>
+         id="tspan1947">OB</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,7.2153834,-37.73944)"
@@ -586,7 +586,7 @@
        style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect35148);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="537.35742"
          y="1234.623"
-         id="tspan7656">v1.0 Jan. 25, 2025</tspan></text>
+         id="tspan1949">v1.0 Jan. 25, 2025</tspan></text>
     <rect
        style="fill:#000000;stroke:none;stroke-width:4.79999;stroke-linecap:square;stroke-linejoin:round"
        id="rect5113"
@@ -748,7 +748,7 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2853-6);fill:#ff0000;fill-opacity:1;stroke:none"><tspan
          x="1952.1211"
          y="838.52734"
-         id="tspan7658">OB</tspan></text>
+         id="tspan1951">OB</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-336.75408,-121.74697)"
@@ -756,7 +756,7 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2853-6-5);fill:#ff0000;fill-opacity:1;stroke:none"><tspan
          x="1952.1211"
          y="838.52734"
-         id="tspan7660">OB</tspan></text>
+         id="tspan1953">OB</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-348.41235,-142.87394)"
@@ -764,7 +764,7 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2853-6-4);fill:#ff0000;fill-opacity:1;stroke:none"><tspan
          x="1952.1211"
          y="838.52734"
-         id="tspan7662">OB</tspan></text>
+         id="tspan1955">OB</tspan></text>
     <g
        id="g3356-59-3-1"
        transform="matrix(0.51990858,0.19393405,-0.19393405,0.51990858,-48.386192,-81.760049)"
@@ -809,7 +809,7 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2853-6-6);fill:#ff0000;fill-opacity:1;stroke:none"><tspan
          x="1952.1211"
          y="838.52734"
-         id="tspan7664">OB</tspan></text>
+         id="tspan1957">OB</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-379.39242,-146.97184)"
@@ -817,7 +817,7 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2853-6-6-9);fill:#ff0000;fill-opacity:1;stroke:none"><tspan
          x="1952.1211"
          y="838.52734"
-         id="tspan7666">OB</tspan></text>
+         id="tspan1959">OB</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-386.83865,-126.16438)"
@@ -825,7 +825,7 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2853-6-6-7);fill:#ff0000;fill-opacity:1;stroke:none"><tspan
          x="1952.1211"
          y="838.52734"
-         id="tspan7668">OB</tspan></text>
+         id="tspan1961">OB</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-398.97923,-100.00723)"
@@ -833,7 +833,7 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2853-6-6-5);fill:#ff0000;fill-opacity:1;stroke:none"><tspan
          x="1952.1211"
          y="838.52734"
-         id="tspan7670">OB</tspan></text>
+         id="tspan1963">OB</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-387.16587,-85.69553)"
@@ -841,7 +841,7 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2853-6-6-54);fill:#ff0000;fill-opacity:1;stroke:none"><tspan
          x="1952.1211"
          y="838.52734"
-         id="tspan7672">OB</tspan></text>
+         id="tspan1965">OB</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-392.5336,-63.086025)"
@@ -849,7 +849,7 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2853-6-6-4);fill:#ff0000;fill-opacity:1;stroke:none"><tspan
          x="1952.1211"
          y="838.52734"
-         id="tspan7674">OB</tspan></text>
+         id="tspan1967">OB</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-401.11948,-42.913314)"
@@ -857,7 +857,7 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2853-6-6-0);fill:#ff0000;fill-opacity:1;stroke:none"><tspan
          x="1952.1211"
          y="838.52734"
-         id="tspan7676">OB</tspan></text>
+         id="tspan1969">OB</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-406.82246,-77.343394)"
@@ -865,7 +865,7 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2853-6-6-6);fill:#ff0000;fill-opacity:1;stroke:none"><tspan
          x="1952.1211"
          y="838.52734"
-         id="tspan7678">OB</tspan></text>
+         id="tspan1971">OB</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-406.74417,-116.77613)"
@@ -873,7 +873,7 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2853-6-6-8);fill:#ff0000;fill-opacity:1;stroke:none"><tspan
          x="1952.1211"
          y="838.52734"
-         id="tspan7680">OB</tspan></text>
+         id="tspan1973">OB</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,-403.29943,-139.74084)"
@@ -881,6 +881,6 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2853-6-6-49);fill:#ff0000;fill-opacity:1;stroke:none"><tspan
          x="1952.1211"
          y="838.52734"
-         id="tspan7682">OB</tspan></text>
+         id="tspan1975">OB</tspan></text>
   </g>
 </svg>
