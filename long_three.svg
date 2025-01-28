@@ -27,13 +27,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.0998546"
-     inkscape:cx="913.30254"
-     inkscape:cy="529.61546"
-     inkscape:window-width="3770"
-     inkscape:window-height="1536"
-     inkscape:window-x="70"
-     inkscape:window-y="27"
+     inkscape:zoom="0.45447491"
+     inkscape:cx="339.95276"
+     inkscape:cy="454.37052"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -112,6 +112,30 @@
          x="333.06796"
          y="-91.807289" />
     </clipPath>
+    <rect
+       x="58.257694"
+       y="294.05569"
+       width="492.91104"
+       height="346.41522"
+       id="rect41542-3" />
+    <rect
+       x="537.35797"
+       y="1215.7483"
+       width="202.13431"
+       height="29.676882"
+       id="rect35148" />
+    <rect
+       x="1952.1219"
+       y="803.13623"
+       width="63.359371"
+       height="46.755016"
+       id="rect2853" />
+    <rect
+       x="1952.1219"
+       y="803.13623"
+       width="182.61623"
+       height="45.291302"
+       id="rect2853-4" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -141,7 +165,7 @@
        y="0"><tspan
          x="28.080078"
          y="44.873047"
-         id="tspan2448">5th Street Disc Golf Course</tspan></text>
+         id="tspan5614">5th Street Disc Golf Course</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,1.1491453,24.12876)"
@@ -154,15 +178,7 @@
        inkscape:export-ydpi="96"><tspan
          x="89.66679"
          y="77.904265"
-         id="tspan2450">Long Layout</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,25.84396,2.8020082)"
-       id="text41540"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:192px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect41542);fill:#000000;fill-opacity:1;stroke:none"><tspan
-         x="58.257812"
-         y="463.93164"
-         id="tspan2452">3</tspan></text>
+         id="tspan5616">Long Layout</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,14.902044,18.49678)"
@@ -170,7 +186,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect51348);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="21.591797"
          y="557.89453"
-         id="tspan2454">Par 4</tspan></text>
+         id="tspan5618">Par 4</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,2.7476155,63.09446)"
@@ -178,7 +194,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect51348-7);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="21.591797"
          y="539.01956"
-         id="tspan2456">637 Feet</tspan></text>
+         id="tspan5620">637 Feet</tspan></text>
     <image
        width="219.075"
        height="474.13333"
@@ -188,7 +204,39 @@
        x="241.31"
        y="-172.87477"
        clip-path="url(#clipPath2708)"
-       transform="matrix(0.44925928,0,0,0.44925928,325.53259,152.37862)" />
+       transform="matrix(0.44925928,0,0,0.44925928,137.09672,147.10787)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,15.26587,-16.795267)"
+       id="text41540-6"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:306.667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect41542-3);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="58.257812"
+         y="565.38505"
+         id="tspan5622">3</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-116.92739,-79.424154)"
+       id="text2851"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2853);fill:#ff0000;fill-opacity:1;stroke:none"><tspan
+         x="1952.1211"
+         y="838.52734"
+         id="tspan5624">OB</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-117.73822,-64.822754)"
+       id="text2851-3"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2853-4);fill:#ff0000;fill-opacity:1;stroke:none"><tspan
+         x="1952.1211"
+         y="838.52734"
+         id="tspan5626">MANDO</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,9.8689646,-38.955138)"
+       id="text35146"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect35148);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="537.35742"
+         y="1234.623"
+         id="tspan5628">v1.1 Jan. 27, 2025</tspan></text>
     <g
        id="g3050"
        transform="translate(777.41236,443.46644)"

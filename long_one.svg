@@ -28,12 +28,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.58577044"
-     inkscape:cx="575.3107"
+     inkscape:cx="806.62998"
      inkscape:cy="505.31741"
      inkscape:window-width="1551"
      inkscape:window-height="991"
-     inkscape:window-x="1174"
-     inkscape:window-y="236"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -135,6 +135,18 @@
        width="492.91104"
        height="346.41522"
        id="rect41542-3" />
+    <rect
+       x="1952.1219"
+       y="803.13623"
+       width="63.359371"
+       height="46.755016"
+       id="rect2853" />
+    <rect
+       x="1952.1219"
+       y="803.13623"
+       width="182.61623"
+       height="45.291302"
+       id="rect2853-4" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -165,7 +177,7 @@
        y="0"><tspan
          x="28.080078"
          y="44.873047"
-         id="tspan3448">5th Street Disc Golf Course</tspan></text>
+         id="tspan1042">5th Street Disc Golf Course</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,1.1491453,24.12876)"
@@ -175,7 +187,7 @@
        y="0"><tspan
          x="89.66679"
          y="77.904265"
-         id="tspan3450">Long Layout</tspan></text>
+         id="tspan1044">Long Layout</tspan></text>
     <image
        width="88.106247"
        height="190.5"
@@ -199,7 +211,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:96px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect51348);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="21.591797"
          y="557.89453"
-         id="tspan3452">Par 3</tspan></text>
+         id="tspan1046">Par 3</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,2.7476155,63.09446)"
@@ -207,7 +219,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:74.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect51348-7);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="21.591797"
          y="539.01956"
-         id="tspan3454">452 Feet</tspan></text>
+         id="tspan1048">452 Feet</tspan></text>
     <g
        id="g3050"
        transform="translate(718.84233,492.20791)">
@@ -611,7 +623,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:306.667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect41542-3);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="58.257812"
          y="565.38505"
-         id="tspan3456">1</tspan></text>
+         id="tspan1050">1</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,11.434685,-38.066873)"
@@ -619,6 +631,22 @@
        style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect35148);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="537.35742"
          y="1234.623"
-         id="tspan3458">v1.2 Jan. 27, 2025</tspan></text>
+         id="tspan1052">v1.2 Jan. 27, 2025</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-151.00711,-88.601726)"
+       id="text2851"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2853);fill:#ff0000;fill-opacity:1;stroke:none"><tspan
+         x="1952.1211"
+         y="838.52734"
+         id="tspan1054">OB</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-151.81794,-74.000326)"
+       id="text2851-3"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2853-4);fill:#ff0000;fill-opacity:1;stroke:none"><tspan
+         x="1952.1211"
+         y="838.52734"
+         id="tspan1056">MANDO</tspan></text>
   </g>
 </svg>
